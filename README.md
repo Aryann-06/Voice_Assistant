@@ -7,8 +7,8 @@ ________________________________________________________________________________
 
 ✨ Features
 ----------------
-🎙️ Control via Voice & Typing
-📞 Make Phone Calls via Mobile (Android)
+🎙️ Control via Voice & Typing.
+📞 Make Phone Calls via Mobile (Android).
 💻 Launch Desktop Applications
 🌐 Open Your Favorite URLs
 🙋 Store and Use Your Personal Details
