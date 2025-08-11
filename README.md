@@ -7,8 +7,10 @@ ________________________________________________________________________________
 
 ✨ Features
 ----------------
-#🎙️ Control via Voice & Typing.
-#📞 Make Phone Calls via Mobile (Android).
+🎙️ Control via Voice & Typing.
+
+📞 Make Phone Calls via Mobile (Android).
+
 💻 Launch Desktop Applications
 🌐 Open Your Favorite URLs
 🙋 Store and Use Your Personal Details
@@ -18,7 +20,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 🛠️ Tech Stack
 ------------------
-*Python – Core logic
-*Eel – Web-Python integration
-*HTML/CSS/JS – Interactive frontend
+Python – Core logic
+Eel – Web-Python integration
+HTML/CSS/JS – Interactive frontend
 __________________________________________________________________________________________________________________________________________
