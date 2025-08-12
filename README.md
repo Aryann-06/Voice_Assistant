@@ -12,15 +12,22 @@ ________________________________________________________________________________
 📞 Make Phone Calls via Mobile (Android).
 
 💻 Launch Desktop Applications
+
 🌐 Open Your Favorite URLs
+
 🙋 Store and Use Your Personal Details
+
 🤖 Chat Interaction
+
 🎵 Play Videos/Songs on YouTube & Spotify
+
 🌤️ Check Weather Updates
 _________________________________________________________________________________________________________________________________________
 🛠️ Tech Stack
 ------------------
 Python – Core logic
+
 Eel – Web-Python integration
+
 HTML/CSS/JS – Interactive frontend
 __________________________________________________________________________________________________________________________________________
