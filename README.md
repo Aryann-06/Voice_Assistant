@@ -8,7 +8,6 @@ ________________________________________________________________________________
 ✨ Features
 ----------------
 🎙️ Control via Voice & Typing.
-
 📞 Make Phone Calls via Mobile (Android).
 
 💻 Launch Desktop Applications
